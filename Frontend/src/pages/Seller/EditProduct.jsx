@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { FiX, FiImage, FiPlus, FiMinus } from "react-icons/fi";
+import { FiX, FiPlus, FiMinus } from "react-icons/fi";
 import { toast } from "react-hot-toast";
 import axios from "axios";
 

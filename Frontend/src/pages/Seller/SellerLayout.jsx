@@ -1,4 +1,4 @@
-import { Link, NavLink, Outlet } from "react-router-dom";
+import { NavLink, Outlet } from "react-router-dom";
 import { assets } from "../../assets/assets";
 import Logo from "../../assets/logo.png";
 

@@ -20,7 +20,7 @@ await connectCloudinary();
 
 
 //Allowed origins for CORS
-const allowedOrigins = ['http://localhost:5173', 'https://lbmart.vercel.app'];
+const allowedOrigins = ['http://localhost:5173', 'https://mern-roan-seven.vercel.app'];
 
 
 // Middleware config
